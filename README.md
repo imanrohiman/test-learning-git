@@ -7,27 +7,19 @@ DevOps Engineer | Cloud Enthusiast | Automation Lover
 
 ## 🔧 Tools & Skills
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-lightblue?style=for-the-badge)
-
-![GitHub followers](https://img.shields.io/github/followers/SorderAdalah?label=Followers&style=for-the-badge)
-![Top Langs](https://img.shields.io/github/languages/top/SorderAdalah?style=for-the-badge)
 
 ---
 
 
 ## 🚀 Project Highlight
 
-- [Retail Store Sample App Deployment](https://github.com/SorderAdalah/retail-store-sample)
 - [Terraform Infra Automation](https://github.com/SorderAdalah/terraform-automation)
-- [Ansible Playbooks](https://github.com/SorderAdalah/ansible-playbooks)
 
 ---
 
 ## 📈 GitHub Stats
 
-![SorderAdalah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorderAdalah&show_icons=true&theme=radical)
+![ImanrohimanAdalah's GitHub stats](https://github.com/imanrohiman)
 
 
 ## 📈 Metrik DevOps
