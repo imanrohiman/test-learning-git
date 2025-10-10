@@ -16,6 +16,7 @@ DevOps Engineer | Cloud Enthusiast | Automation Lover
 
 ---
 
+
 ## 🚀 Project Highlight
 
 - [Retail Store Sample App Deployment](https://github.com/SorderAdalah/retail-store-sample)
@@ -27,6 +28,17 @@ DevOps Engineer | Cloud Enthusiast | Automation Lover
 ## 📈 GitHub Stats
 
 ![SorderAdalah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorderAdalah&show_icons=true&theme=radical)
+
+
+## 📈 Metrik DevOps
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SorderAdalah&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SorderAdalah&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SorderAdalah&theme=radical)
+
+## 🔧 CI/CD Status
+![Retail App CI/CD](https://github.com/SorderAdalah/retail-store-sample/actions/workflows/ci-cd.yml/badge.svg)
+
 
 ## 💻 Daily DevOps Workflow
 
